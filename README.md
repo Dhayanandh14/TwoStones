@@ -1,1 +1,1 @@
-![TwoStones](/TwoStone.png)
+![TwoStones](/Twostone.png)
